@@ -1,0 +1,2 @@
+# RepositorioInteligenciaArtificial
+Repositorio da disciplina de Inteligência Artificial

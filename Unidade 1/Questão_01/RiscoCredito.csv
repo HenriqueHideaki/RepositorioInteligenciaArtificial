@@ -1,0 +1,12 @@
+﻿casa propria;estado civil; carro;rendimentos;bom pagador
+sim;solteiro;sim;alto;não
+não;casado;sim;médio;não
+não;solteiro;não;baixo;não
+sim;casado;sim;alto ;não
+não;divorciado;não;médio;sim
+não;casado;não;baixo;não
+sim;divorciado;sim;alto;sim
+não;solteiro;sim;médio;sim 
+não;casado;sim ;baixo;não
+não;solteiro;não;médio;sim
+sim;divorciado;não;médio;não
